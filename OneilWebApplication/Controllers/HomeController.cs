@@ -17,7 +17,7 @@ namespace OneilWebApplication.Controllers
                 FirstName = "Bob",
                 LastName = "Smith",
                 Id = 2,
-                LoginName = "bsmith"
+                LoginName = "bjjjsmith"
             };
             using(EntitiesOneilWebInterfaces _ef = new EntitiesOneilWebInterfaces())
             {
